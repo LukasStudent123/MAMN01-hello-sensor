@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="choose_sensor">Choose sensor:</string>
+    <string name="button_compass">Compass</string>
+    <string name="button_accelerometer">Accelerometer</string>
+    <string name="accelerometer_title">Accelerometer</string>
+    <string name="compass_title">Compass</string>
+    <string name="x">X:</string>
+    <string name="y">Y:</string>
+    <string name="z">Z:</string>
+    <string name="compass_heading">Heading: 0.0</string>
+    <string name="tilt">Phone is leaning:</string>
+</resources>
